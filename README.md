@@ -72,8 +72,8 @@ Saya adalah seorang pelajar **SMK** yang berfokus pada **Fullstack Web Developme
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toriqayataalmukhorobin-del&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toriqayataalmukhorobin-del&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=toriqayataalmukhorobin-del&theme=tokyonight&show_icons=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=toriqayataalmukhorobin-del&theme=tokyonight&layout=compact" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
@@ -84,6 +84,6 @@ Saya adalah seorang pelajar **SMK** yang berfokus pada **Fullstack Web Developme
 
 ### 📫 Hubungi Saya
 
-- **Instagram:** [@toriqayataal](https://instagram.com/toriqayataal)
+- **Instagram:** [toriqayataal](https://instagram.com/toriqayataal)
 - **Email:** toriqayataalmukhorobin@gmail.com
 -
