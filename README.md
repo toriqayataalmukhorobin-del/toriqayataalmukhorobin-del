@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Motivation-You%20can%20if%20you%20think%20you%20can-FF5722?style=for-the-badge&logo=rocket" alt="Motivation" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-Dynamic-blue?style=for-the-badge&logo=github" alt="Views" />
   <img src="https://img.shields.io/badge/Status-Pelajar%20SMK-success?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Followers-4-informational?style=for-the-badge&logo=github" alt="Followers" />
@@ -19,7 +23,7 @@ Saya adalah seorang pelajar **SMK** yang berfokus pada **Fullstack Web Developme
 - 🏫 **Pendidikan:** Pelajar SMK Jurusan Rekayasa Perangkat Lunak (RPL)
 - 💻 **Fokus Saat Ini:** Memperdalam Fullstack Development & AI Tooling
 - 🌱 **Sedang Belajar:** Next.js & Administrasi Server di Linux
-- 💬 **Tanya saya tentang:** Laravel, Database MySQL, atau konfigurasi Git/Linux
+- 💬 **Tanya saya tentang:** Laravel, PHP, Database MySQL, atau konfigurasi Git/Linux
 
 ---
 
@@ -52,12 +56,14 @@ Saya adalah seorang pelajar **SMK** yang berfokus pada **Fullstack Web Developme
 #### ⚙️ Backend & Database Management
 | Ikon | Nama Teknologi | Level | Penjelasan Fungsi & Implementasi |
 | :---: | :--- | :---: | :--- |
+| <img src="https://skillicons.dev/icons?i=php" width="35"/> | **PHP** | `Advanced` | Bahasa pemrograman server-side utama untuk mengolah logika web dinamis dan pemrosesan data backend. |
 | <img src="https://skillicons.dev/icons?i=laravel" width="35"/> | **Laravel** | `Intermediate` | Framework PHP utama saya untuk membangun arsitektur MVC, RESTful API, sistem keamanan, dan routing backend. |
 | <img src="https://skillicons.dev/icons?i=mysql" width="35"/> | **MySQL** | `Intermediate` | Manajemen sistem database relasional untuk merancang tabel data, query data, dan relasi basis data aplikasi. |
 
-#### 🧰 Alat & Lingkungan Pengembangan (Tools)
+#### 🧰 Alat & Lingkungan Pengembangan (Tools & Environment)
 | Ikon | Nama Alat | Kegunaan Utama |
 | :---: | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=xd" width="35"/> | **XAMPP** | Perangkat lunak lokal server (Apache, MySQL, PHP) untuk menguji aplikasi web di komputer sendiri sebelum di-deploy. |
 | <img src="https://skillicons.dev/icons?i=linux" width="35"/> | **Linux** | Sistem operasi open-source yang andal untuk mengelola server hosting dan lingkungan development. |
 | <img src="https://skillicons.dev/icons?i=git" width="35"/> | **Git** | Sistem pengontrol versi untuk melacak setiap perubahan kode dan kolaborasi tim tanpa takut bentrok. |
 | <img src="https://skillicons.dev/icons?i=github" width="35"/> | **GitHub** | Platform cloud hosting untuk mengamankan repositori Git online, publikasi proyek, dan portofolio coding. |
