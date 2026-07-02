@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=toriqayataalmukhorobin-del&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Views" />
-  <img src="https://img.shields.io/badge/Status-Pelajar%20SMK-brightgreen?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/github/followers/toriqayataalmukhorobin-del?label=Followers&style=flat-square&color=blue" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=toriqayataalmukhorobin-del&label=Profile%20Views&color=2196F3&style=plastic" alt="Views" />
+  <img src="https://img.shields.io/badge/Status-Pelajar%20SMK-4CAF50?style=plastic" alt="Status" />
+  <img src="https://img.shields.io/github/followers/toriqayataalmukhorobin-del?label=Followers&style=plastic&color=00BCD4" alt="Followers" />
 </p>
 
 ---
@@ -20,6 +20,15 @@ Saya adalah seorang pelajar **SMK** yang berfokus pada **Fullstack Web Developme
 - 💻 **Fokus Saat Ini:** Memperdalam Fullstack Development & AI Tooling
 - 🌱 **Sedang Belajar:** Next.js & Administrasi Server di Linux
 - 💬 **Tanya saya tentang:** Laravel, Database MySQL, atau konfigurasi Git/Linux
+
+---
+
+### 📍 Lokasi Saya
+<p align="left">
+  <a href="https://maps.google.com/?q=Juwiring,+Klaten,+Jawa+Tengah" target="_blank">
+    <img src="https://atlas-kardex.vercel.app/api/badge?location=Juwiring,%20Klaten,%20Jawa%20Tengah&theme=dark" alt="Juwiring, Klaten Map Badge" />
+  </a>
+</p>
 
 ---
 
@@ -45,16 +54,7 @@ Saya adalah seorang pelajar **SMK** yang berfokus pada **Fullstack Web Developme
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toriqayataalmukhorobin-del&theme=tokyonight" alt="Detail Profil" width="100%" />
-</p>
-
----
-
-### 🎵 Sedang Mendengarkan
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=toriqayataalmukhorobin-del&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=toriqayataalmukhorobin-del&theme=tokyonight" alt="Spotify" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toriqayataalmukhorobin-del&theme=tokyonight" width="100%" alt="Detail Profil" />
 </p>
 
 ---
