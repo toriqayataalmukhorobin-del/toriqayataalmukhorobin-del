@@ -1,8 +1,13 @@
 # Halo, Saya Fullstack Developer! 👋
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Pelajar+SMK+RPL;Fullstack+Web+Developer;Tech+Enthusiast;Suka+Eksplorasi+Hal+Baru" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=toriqayataalmukhorobin-del&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Views" />
   <img src="https://img.shields.io/badge/Status-Pelajar%20SMK-brightgreen?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/github/followers/toriqayataalmukhorobin-del?label=Followers&style=flat-square&color=blue" alt="Followers" />
 </p>
 
 ---
@@ -20,52 +25,11 @@ Saya adalah seorang pelajar **SMK** yang berfokus pada **Fullstack Web Developme
 
 ### 🛠️ Teknologi & Alat Kerja
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,laravel,nextjs,mysql,linux,git,github,vscode&theme=dark" />
+  </a>
+</p>
 
 ---
 
@@ -80,10 +44,28 @@ Saya adalah seorang pelajar **SMK** yang berfokus pada **Fullstack Web Developme
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=toriqayataalmukhorobin-del&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toriqayataalmukhorobin-del&theme=tokyonight" alt="Detail Profil" width="100%" />
+</p>
+
+---
+
+### 🎵 Sedang Mendengarkan
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=toriqayataalmukhorobin-del&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=toriqayataalmukhorobin-del&theme=tokyonight" alt="Spotify" />
+  </a>
+</p>
+
 ---
 
 ### 📫 Hubungi Saya
 
-- **Instagram:** [toriqayataal](https://instagram.com/toriqayataal)
-- **Email:** toriqayataalmukhorobin@gmail.com
--
+<p align="left">
+  <a href="https://instagram.com/toriqayataal" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:toriqayataalmukhorobin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
