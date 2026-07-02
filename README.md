@@ -1,4 +1,4 @@
-# Halo, Saya Fullstack Developer! 👋
+# Halo, Saya Toria Ayataal Mukhorobin! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Pelajar+SMK+RPL;Fullstack+Web+Developer;Tech+Enthusiast;Suka+Eksplorasi+Hal+Baru" alt="Typing SVG" />
