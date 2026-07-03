@@ -1,4 +1,4 @@
-# Halo, Saya Toria Ayataal Mukhorobin! 👋
+# Halo, Saya Fullstack Developer! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Pelajar+SMK+RPL;Fullstack+Web+Developer;Tech+Enthusiast;Suka+Eksplorasi+Hal+Baru" alt="Typing SVG" />
@@ -27,51 +27,39 @@ Saya adalah seorang pelajar **SMK** yang berfokus pada **Fullstack Web Developme
 
 ---
 
-### 📍 Lokasi Saya (Klaten, Jawa Tengah)
+### 📍 Lokasi Alamat
+- **Kecamatan:** Juwiring
+- **Kabupaten:** Klaten
+- **Provinsi:** Jawa Tengah, Indonesia
+
+---
+
+### 🛠️ Teknologi & Alat Kerja
+
+#### 🌐 Frontend
 <p align="left">
-  <a href="https://www.openstreetmap.org/#map=13/-7.6961/110.6554" target="_blank">
-    <img src="https://static-maps.yandex.ru/1.x/?ll=110.6554,-7.6961&z=12&size=650,250&l=map&pt=110.6554,-7.6961,pm2rdm" alt="Klaten Map" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nextjs&theme=dark" alt="Frontend Skills" />
+  </a>
+</p>
+
+#### ⚙️ Backend & Server lokal
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" alt="Backend Skills" />
+  </a>
+</p>
+
+#### 🧰 Alat Kerja (Tools)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Development Tools" />
   </a>
 </p>
 
 ---
 
-### 🏆 Pencapaian GitHub Saya
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=toriqayataalmukhorobin-del&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
-</p>
-
----
-
-### 🛠️ Teknologi & Alat Kerja Detail
-
-#### 🌐 Frontend Development
-| Ikon | Nama Teknologi | Level | Penjelasan Fungsi & Implementasi |
-| :---: | :--- | :---: | :--- |
-| <img src="https://skillicons.dev/icons?i=html" width="35"/> | **HTML5** | `Advanced` | Menyusun kerangka dasar, elemen teks, form, dan struktur utama halaman website. |
-| <img src="https://skillicons.dev/icons?i=css" width="35"/> | **CSS3** | `Intermediate` | Merancang tampilan visual, pewarnaan, animasi transisi, dan memastikan desain web responsif di HP. |
-| <img src="https://skillicons.dev/icons?i=js" width="35"/> | **JavaScript** | `Intermediate` | Memberikan logika pemrograman interaktif pada frontend, manipulasi DOM, serta integrasi API. |
-| <img src="https://skillicons.dev/icons?i=nextjs" width="35"/> | **Next.js** | `Learning` | Framework modern berbasis React untuk rendering web yang super cepat (SSR/SSG) dan SEO Friendly. |
-
-#### ⚙️ Backend & Database Management
-| Ikon | Nama Teknologi | Level | Penjelasan Fungsi & Implementasi |
-| :---: | :--- | :---: | :--- |
-| <img src="https://skillicons.dev/icons?i=php" width="35"/> | **PHP** | `Advanced` | Bahasa pemrograman server-side utama untuk mengolah logika web dinamis dan pemrosesan data backend. |
-| <img src="https://skillicons.dev/icons?i=laravel" width="35"/> | **Laravel** | `Intermediate` | Framework PHP utama saya untuk membangun arsitektur MVC, RESTful API, sistem keamanan, dan routing backend. |
-| <img src="https://skillicons.dev/icons?i=mysql" width="35"/> | **MySQL** | `Intermediate` | Manajemen sistem database relasional untuk merancang tabel data, query data, dan relasi basis data aplikasi. |
-
-#### 🧰 Alat & Lingkungan Pengembangan (Tools & Environment)
-| Ikon | Nama Alat | Kegunaan Utama |
-| :---: | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=xd" width="35"/> | **XAMPP** | Perangkat lunak lokal server (Apache, MySQL, PHP) untuk menguji aplikasi web di komputer sendiri sebelum di-deploy. |
-| <img src="https://skillicons.dev/icons?i=linux" width="35"/> | **Linux** | Sistem operasi open-source yang andal untuk mengelola server hosting dan lingkungan development. |
-| <img src="https://skillicons.dev/icons?i=git" width="35"/> | **Git** | Sistem pengontrol versi untuk melacak setiap perubahan kode dan kolaborasi tim tanpa takut bentrok. |
-| <img src="https://skillicons.dev/icons?i=github" width="35"/> | **GitHub** | Platform cloud hosting untuk mengamankan repositori Git online, publikasi proyek, dan portofolio coding. |
-| <img src="https://skillicons.dev/icons?i=vscode" width="35"/> | **VS Code** | Code editor andalan saya dengan berbagai ekstensi canggih untuk mempercepat proses penulisan kode program. |
-
----
-
-### 📊 Statistik Aktivitas Coding
+### 📊 Statistik & Animasi Aktivitas Coding
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=toriqayataalmukhorobin-del&theme=tokyonight&show_icons=true" alt="GitHub Stats" height="185" />
@@ -80,6 +68,10 @@ Saya adalah seorang pelajar **SMK** yang berfokus pada **Fullstack Web Developme
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=toriqayataalmukhorobin-del&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=toriqayataalmukhorobin-del&theme=tokyonight&bg_color=1a1b27" alt="Activity Graph" width="100%" />
 </p>
 
 ---
