@@ -64,14 +64,14 @@ I'm a **Full Stack & Mobile Developer** from Indonesia who enjoys building moder
 ### 🌐 Frontend Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" alt="Frontend Skills" />
   </a>
 </p>
 
 ### ⚙️ Backend & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,prisma&theme=dark" alt="Backend Skills" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&theme=dark" alt="Backend Skills" />
   </a>
 </p>
 
