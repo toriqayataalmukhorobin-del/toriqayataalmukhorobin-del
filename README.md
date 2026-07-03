@@ -1,7 +1,9 @@
-# Hello, I'm Toriq ayataal m! 👋
+# 🪐 Toriq Ayataal Mukhorobin | Personal Space
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Toriq%20Ayataal%20Mukhorobin&fontAlign=50&fontSize=40&fontColor=ffffff&color=25:111827,70:6B21A8,100:06B6D4&animation=twinkling"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Tech+Enthusiast;Eager+to+Explore+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+JavaScript+Developer;Flutter+Mobile+Developer;Linux+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,57 +18,80 @@
 
 ---
 
-### 🚀 About Me
+## 💫 About Me
 
-I am a vocational high school student specializing in **Full-Stack Web Development**. I love building responsive, efficient, and production-ready web applications from frontend to backend.
+I'm a **Full Stack & Mobile Developer** from Indonesia who enjoys building modern web and mobile applications.
 
 - 🏫 **Education:** Vocational High School Student majoring in Software Engineering (RPL)
-- 💻 **Current Focus:** Deepening Full-Stack Development & AI Tooling
-- 🌱 **Currently Learning:** Next.js & Linux Server Administration
-- 💬 **Ask me about:** Laravel, PHP, MySQL Database, or Git/Linux configurations
+- 💻 **Current Focus:** Deepening Full-Stack Development, Mobile Apps, & Backend Architecture
+- 🌱 **Currently Exploring:** System Design, Clean Architecture, Next.js, and Flutter
+- 💬 **Ask me about:** Laravel, Express.js, Flutter, MySQL/PostgreSQL, or Git/Linux configurations
 
 ---
 
-### 🎯 My Goals
+## 🎯 My Goals
+
 - 🌟 Building user-friendly and highly accessible websites.
 - 🗣️ Polyglot programming—being able to utilize multiple programming languages effectively.
 - 🤝 Helping and contributing to anyone who wants to learn web development.
 
+### 🚀 2026 Goals
+- [x] Build production-ready Full Stack applications
+- [x] Master Flutter & Dart
+- [x] Learn Docker & CI/CD
+- [x] Contribute to Open Source
+- [x] Strengthen Backend Architecture
+- [x] Improve Problem Solving
+
 ---
 
-### 📍 Location
+## 📍 Location
 - **District:** Juwiring
 - **Regency:** Klaten
 - **Province:** Central Java, Indonesia
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🚀 Tech Stack
 
-#### 🌐 Frontend Development
+### 📱 Mobile Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nextjs&theme=dark" alt="Frontend Skills" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Mobile Skills" />
   </a>
 </p>
 
-#### ⚙️ Backend & Local Server Environment
+### 🌐 Frontend Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" alt="Backend Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend Skills" />
   </a>
 </p>
 
-#### 🧰 Development Tools
+### ⚙️ Backend & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Development Tools" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,prisma&theme=dark" alt="Backend Skills" />
+  </a>
+</p>
+
+### 🗄️ Database Management
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Database Skills" />
+  </a>
+</p>
+
+### 🛠️ Tools & Environments
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Tools" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Analytics & Activity
+## 📊 GitHub Analytics & Activity
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=toriqayataalmukhorobin-del&theme=tokyonight&show_icons=true" alt="GitHub Stats" height="185" />
@@ -83,7 +108,7 @@ I am a vocational high school student specializing in **Full-Stack Web Developme
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="left">
   <a href="https://instagram.com/toriqayataal" target="_blank">
@@ -93,3 +118,9 @@ I am a vocational high school student specializing in **Full-Stack Web Developme
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+<br>
+
+> *"Keep building. Every project is one step closer to becoming a better developer."* 🚀
+
+> *"Setiap baris kode yang ditulis hari ini adalah pondasi untuk sistem yang lebih besar di masa depan."* 💻🔥
