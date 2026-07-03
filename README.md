@@ -1,7 +1,7 @@
-# Halo, Saya Fullstack Developer! 👋
+# Hello, I'm Toriq ayataal m! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Pelajar+SMK+RPL;Fullstack+Web+Developer;Tech+Enthusiast;Suka+Eksplorasi+Hal+Baru" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Tech+Enthusiast;Eager+to+Explore+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,47 +10,54 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-Dynamic-blue?style=for-the-badge&logo=github" alt="Views" />
-  <img src="https://img.shields.io/badge/Status-Pelajar%20SMK-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Vocational%20Student-success?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Followers-4-informational?style=for-the-badge&logo=github" alt="Followers" />
 </p>
 
 ---
 
-### 🚀 Tentang Saya
+### 🚀 About Me
 
-Saya adalah seorang pelajar **SMK** yang berfokus pada **Fullstack Web Development**. Saya suka membangun aplikasi web yang responsif, efisien, dan siap pakai dari sisi backend hingga frontend.
+I am a vocational high school student specializing in **Full-Stack Web Development**. I love building responsive, efficient, and production-ready web applications from frontend to backend.
 
-- 🏫 **Pendidikan:** Pelajar SMK Jurusan Rekayasa Perangkat Lunak (RPL)
-- 💻 **Fokus Saat Ini:** Memperdalam Fullstack Development & AI Tooling
-- 🌱 **Sedang Belajar:** Next.js & Administrasi Server di Linux
-- 💬 **Tanya saya tentang:** Laravel, PHP, Database MySQL, atau konfigurasi Git/Linux
-
----
-
-### 📍 Lokasi Alamat
-- **Kecamatan:** Juwiring
-- **Kabupaten:** Klaten
-- **Provinsi:** Jawa Tengah, Indonesia
+- 🏫 **Education:** Vocational High School Student majoring in Software Engineering (RPL)
+- 💻 **Current Focus:** Deepening Full-Stack Development & AI Tooling
+- 🌱 **Currently Learning:** Next.js & Linux Server Administration
+- 💬 **Ask me about:** Laravel, PHP, MySQL Database, or Git/Linux configurations
 
 ---
 
-### 🛠️ Teknologi & Alat Kerja
+### 🎯 My Goals
+- 🌟 Building user-friendly and highly accessible websites.
+- 🗣️ Polyglot programming—being able to utilize multiple programming languages effectively.
+- 🤝 Helping and contributing to anyone who wants to learn web development.
 
-#### 🌐 Frontend
+---
+
+### 📍 Location
+- **District:** Juwiring
+- **Regency:** Klaten
+- **Province:** Central Java, Indonesia
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 🌐 Frontend Development
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nextjs&theme=dark" alt="Frontend Skills" />
   </a>
 </p>
 
-#### ⚙️ Backend & Server lokal
+#### ⚙️ Backend & Local Server Environment
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" alt="Backend Skills" />
   </a>
 </p>
 
-#### 🧰 Alat Kerja (Tools)
+#### 🧰 Development Tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Development Tools" />
@@ -59,7 +66,7 @@ Saya adalah seorang pelajar **SMK** yang berfokus pada **Fullstack Web Developme
 
 ---
 
-### 📊 Statistik & Animasi Aktivitas Coding
+### 📊 GitHub Analytics & Activity
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=toriqayataalmukhorobin-del&theme=tokyonight&show_icons=true" alt="GitHub Stats" height="185" />
@@ -76,7 +83,7 @@ Saya adalah seorang pelajar **SMK** yang berfokus pada **Fullstack Web Developme
 
 ---
 
-### 📫 Hubungi Saya
+### 📫 Connect With Me
 
 <p align="left">
   <a href="https://instagram.com/toriqayataal" target="_blank">
