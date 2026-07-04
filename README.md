@@ -8,12 +8,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Motivation-You%20can%20if%20you%20think%20you%20can-FF5722?style=for-the-badge&logo=rocket" alt="Motivation" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-Dynamic-blue?style=for-the-badge&logo=github" alt="Views" />
   <img src="https://img.shields.io/badge/Status-Vocational%20Student-success?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Followers-4-informational?style=for-the-badge&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Location-Klaten%2C%20Indonesia-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 ---
@@ -22,10 +18,10 @@
 
 I'm a **Full Stack & Mobile Developer** from Indonesia who enjoys building modern web and mobile applications.
 
-- 🏫 **Education:** Vocational High School Student majoring in Software Engineering (RPL)
-- 💻 **Current Focus:** Deepening Full-Stack Development, Mobile Apps, & Backend Architecture
-- 🌱 **Currently Exploring:** System Design, Clean Architecture, Next.js, and Flutter
-- 💬 **Ask me about:** Laravel, Bootstrap, Flutter, MySQL/PostgreSQL, or Git/Linux configurations
+* 🏫 **Education:** Vocational High School Student majoring in Software Engineering (RPL)
+* 💻 **Current Focus:** Deepening Full-Stack Development, Mobile Apps, & Backend Architecture
+* 🌱 **Currently Exploring:** System Design, Clean Architecture, Next.js, and Flutter
+* 💬 **Ask me about:** Laravel, Bootstrap, Flutter, MySQL/PostgreSQL, or Git/Linux configurations
 
 ---
 
@@ -39,9 +35,8 @@ I'm a **Full Stack & Mobile Developer** from Indonesia who enjoys building moder
 - [x] Build production-ready Full Stack applications
 - [x] Master Flutter & Dart
 - [x] Learn Docker & CI/CD
-- [x] Contribute to Open Source
-- [x] Strengthen Backend Architecture
-- [x] Improve Problem Solving
+- [ ] Contribute to Open Source
+- [ ] Strengthen Backend Architecture
 
 ---
 
@@ -74,10 +69,10 @@ I'm a **Full Stack & Mobile Developer** from Indonesia who enjoys building moder
 
 ---
 
-## 📍 Location
-* **District:** Juwiring
-* **Regency:** Klaten
-* **Province:** Central Java, Indonesia
+### 🧩 Random Developer Quotes
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
+</p>
 
 ---
 
@@ -92,8 +87,12 @@ I'm a **Full Stack & Mobile Developer** from Indonesia who enjoys building moder
   </a>
 </p>
 
-<br>
+---
 
-> *"Keep building. Every project is one step closer to becoming a better developer."* 🚀
+## 💡 Mindset
 
-> *"Setiap baris kode yang ditulis hari ini adalah pondasi untuk sistem yang lebih besar di masa depan."* 💻🔥
+> *"Menulis kode bukan sekadar membuat program berjalan, tetapi membuatnya mudah dipahami."* 🇮🇩
+> *(Writing code is not just about making a program run, but making it easily understood.)* 
+
+> *"Program terbaik bukan yang paling rumit, melainkan yang paling bermanfaat."* 🇮🇩
+> *(The best program is not the most complex one, but the most useful one.)* 
