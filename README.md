@@ -32,10 +32,10 @@ I'm a **Full Stack & Mobile Developer** from Indonesia who enjoys building moder
 * 🤝 Helping and contributing to anyone who wants to learn web development.
 
 ### 🚀 2026 Goals
-- [x] Build production-ready Full Stack applications
-- [x] Master Flutter & Dart
-- [x] Learn Docker & CI/CD
-- [ ] Contribute to Open Source
+- [ ] Build production-ready Full Stack applications
+- [ ] Master Flutter & Dart
+- [ ] Learn Docker & CI/CD
+- [x] Contribute to Open Source
 - [ ] Strengthen Backend Architecture
 
 ---
@@ -48,7 +48,7 @@ I'm a **Full Stack & Mobile Developer** from Indonesia who enjoys building moder
 | **Frontend Development** | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs&theme=dark" alt="Frontend" /> |
 | **Backend Development** | <img src="https://skillicons.dev/icons?i=php,laravel,nodejs&theme=dark" alt="Backend" /> |
 | **Database Management** | <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Database" /> |
-| **Tools & DevOps** | <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Tools" /> |
+| **Tools & DevOps** | <img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode&theme=dark" alt="Tools" /> |
 
 ---
 
