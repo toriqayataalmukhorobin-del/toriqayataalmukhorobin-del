@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-I'm a **Full Stack & Mobile Developer** from Indonesia who enjoys building modern web and mobile applications.
+I'm a **Full Stack Developer** from Indonesia who enjoys building modern web and mobile applications.
 
 * 🏫 **Education:** Vocational High School Student majoring in Software Engineering (RPL)
 * 💻 **Current Focus:** Deepening Full-Stack Development, Mobile Apps, & Backend Architecture
@@ -33,8 +33,6 @@ I'm a **Full Stack & Mobile Developer** from Indonesia who enjoys building moder
 
 ### 🚀 2026 Goals
 - [ ] Build production-ready Full Stack applications
-- [ ] Master Flutter & Dart
-- [ ] Learn Docker & CI/CD
 - [x] Contribute to Open Source
 - [ ] Strengthen Backend Architecture
 
