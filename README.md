@@ -34,7 +34,7 @@ I'm a **Full Stack Developer** from Indonesia who enjoys building modern web and
 ### 🚀 2026 Goals
 - [ ] Build production-ready Full Stack applications
 - [x] Contribute to Open Source
-- [ ] Strengthen Backend Architecture
+- [x] Strengthen Backend Architecture
 
 ---
 
