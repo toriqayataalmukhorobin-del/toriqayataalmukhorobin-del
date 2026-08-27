@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Toriq%20Ayataal%20Mukhorobin&fontAlign=50&fontSize=40&fontColor=ffffff&color=25:111827,70:6B21A8,100:06B6D4&animation=twinkling"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Vocational+High+School+Student;Full-Stack+Developer;Flutter+Mobile+Developer;Linux+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Vocational+High+School+Student;Full-Stack+Developer;Linux+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
