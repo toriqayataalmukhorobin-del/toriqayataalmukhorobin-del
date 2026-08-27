@@ -61,7 +61,7 @@ I'm a **Full Stack Developer** from Indonesia who enjoys building modern web and
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/06B6D4/toriqayataalmukhorobin-del" alt="Contribution Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/report-graph-profile-account?username=toriqayataalmukhorobin-del&theme=tokyonight" width="100%" alt="3D Contribution Graph" />
 </p>
 
 ---
