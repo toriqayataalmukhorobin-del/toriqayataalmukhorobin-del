@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Toriq%20Ayataal%20Mukhorobin&fontAlign=50&fontSize=40&fontColor=ffffff&color=25:111827,70:6B21A8,100:06B6D4&animation=twinkling"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=mutuharjo+student+Student;Full-Stack+Developer;Flutter+Mobile+Developer;Linux+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Vocational+High+School+Student;Full-Stack+Developer;Flutter+Mobile+Developer;Linux+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -42,34 +42,26 @@ I'm a **Full Stack Developer** from Indonesia who enjoys building modern web and
 
 | Area | Technologies |
 | :--- | :--- |
-| **Mobile Development** | <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Mobile" /> |
-| **Frontend Development** | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs&theme=dark" alt="Frontend" /> |
-| **Backend Development** | <img src="https://skillicons.dev/icons?i=php,laravel,nodejs&theme=dark" alt="Backend" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,dart,kotlin&theme=dark" alt="Languages" /> |
+| **Frameworks & Libraries** | <img src="https://skillicons.dev/icons?i=laravel,vue,nextjs,react,bootstrap,tailwind,flutter&theme=dark" alt="Frameworks" /> |
 | **Database Management** | <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Database" /> |
-| **Tools & DevOps** | <img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode&theme=dark" alt="Tools" /> |
+| **Tools & Environment** | <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode&theme=dark" alt="Tools" /> |
 
 ---
 
 ## 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=toriqayataalmukhorobin-del&theme=tokyonight&show_icons=true" alt="GitHub Stats" height="185" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=toriqayataalmukhorobin-del&theme=tokyonight&layout=compact" alt="Top Languages" height="185" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toriqayataalmukhorobin-del&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=toriqayataalmukhorobin-del&theme=tokyonight&bg_color=1a1b27" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=toriqayataalmukhorobin-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=toriqayataalmukhorobin-del&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="175" />
 </p>
 
 ---
 
-### 🧩 Random Developer Quotes
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
+  <img src="https://ghchart.rshah.org/06B6D4/toriqayataalmukhorobin-del" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
@@ -89,8 +81,8 @@ I'm a **Full Stack Developer** from Indonesia who enjoys building modern web and
 
 ## 💡 Mindset
 
-> *"Menulis kode bukan sekadar membuat program berjalan, tetapi membuatnya mudah dipahami."* 🇮🇩
-> *(Writing code is not just about making a program run, but making it easily understood.)* 
+> *"Menulis kode bukan sekadar membuat program berjalan, tetapi membuatnya mudah dipahami."* 🇮🇩  
+> *(Writing code is not just about making a program run, but making it easily understood.)*  
 
-> *"Program terbaik bukan yang paling rumit, melainkan yang paling bermanfaat."* 🇮🇩
-> *(The best program is not the most complex one, but the most useful one.)* 
+> *"Program terbaik bukan yang paling rumit, melainkan yang paling bermanfaat."* 🇮🇩  
+> *(The best program is not the most complex one, but the most useful one.)*
