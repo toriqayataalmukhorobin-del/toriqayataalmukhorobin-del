@@ -43,7 +43,7 @@ I'm a **Full Stack Developer** from Indonesia who enjoys building modern web and
 | Area | Technologies |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,dart,kotlin&theme=dark" alt="Languages" /> |
-| **Frameworks & Libraries** | <img src="https://skillicons.dev/icons?i=laravel,vue,nextjs,react,bootstrap,tailwind,flutter&theme=dark" alt="Frameworks" /> |
+| **Frameworks & Libraries** | <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,flutter&theme=dark" alt="Frameworks" /> |
 | **Database Management** | <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Database" /> |
 | **Tools & Environment** | <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode&theme=dark" alt="Tools" /> |
 
