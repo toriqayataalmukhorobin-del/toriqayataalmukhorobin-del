@@ -1,88 +1,82 @@
-# 🪐 Toriq Ayataal Mukhorobin | Personal Space
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Toriq%20Ayataal%20Mukhorobin&fontAlign=50&fontSize=40&fontColor=ffffff&color=25:111827,70:6B21A8,100:06B6D4&animation=twinkling"/>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=TORIQ%20AYATAAL&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=00FF66&desc=%3E_PORTFOLIO_TERMINAL_v2.026&descAlign=50&descAlignY=65&descSize=16&color=090D16&stroke=00FF66&strokeWidth=2&animation=twinkling" width="100%" alt="Toriq Ayataal" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Vocational+High+School+Student;Full-Stack+Developer;Linux+Enthusiast" alt="Typing SVG" />
-</p>
+<!-- Animasi terminal: teks diketik otomatis, berganti baris, dan mengulang -->
+<a href="https://github.com/toriqayataal">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1200&color=00FF66&background=090D16&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%3E+whoami%3A+Toriq+Ayataal+Mukhorobin;%3E+role%3A+Full-Stack+Web+Developer;%3E+stack%3A+Laravel+%7C+Next.js+%7C+mySQL;%3E+os%3A+chacy+os+btw;%3E+status%3A+open+for+collaboration+%E2%9C%93" alt="Animasi terminal" />
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Motivation-You%20can%20if%20you%20think%20you%20can-FF5722?style=for-the-badge&logo=rocket" alt="Motivation" />
-  <img src="https://img.shields.io/badge/Status-Vocational%20Student-success?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-Klaten%2C%20Indonesia-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-</p>
+<br/><br/>
 
----
+<!-- Badges -->
+<a href="mailto:toriqayataalmukhorobin@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Hubungi_Saya-090D16?style=for-the-badge&logo=gmail&logoColor=00FF66&labelColor=161B22" alt="Email" /></a>
+<a href="https://instagram.com/toriqayataal"><img src="https://img.shields.io/badge/INSTAGRAM-@toriqayataal-090D16?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=161B22" alt="Instagram" /></a>
+<img src="https://img.shields.io/badge/LOKASI-Klaten,_Indonesia-090D16?style=for-the-badge&logo=linux&logoColor=33B5E5&labelColor=161B22" alt="Lokasi" />
 
-## 💫 About Me
+<br/><br/>
 
-I'm a **Full Stack Developer** from Indonesia who enjoys building modern web and mobile applications.
+[Tentang](#-tentang-saya) · [Tech Stack](#️-tech-stack) · [Perjalanan](#-perjalanan) · [Kontak](#-kontak)
 
-* 🏫 **Education:** Vocational High School Student majoring in Software Engineering (RPL)
-* 💻 **Current Focus:** Deepening Full-Stack Development, Mobile Apps, & Backend Architecture
-* 🌱 **Currently Exploring:** System Design, Clean Architecture, Next.js, and Flutter
-* 💬 **Ask me about:** Laravel, Bootstrap, Flutter, MySQL/PostgreSQL, or Git/Linux configurations
+</div>
 
 ---
 
-## 🎯 My Goals
+## 👋 Tentang Saya
 
-* 🌟 Building user-friendly and highly accessible websites.
-* 🗣️ Polyglot programming—being able to utilize multiple programming languages effectively.
-* 🤝 Helping and contributing to anyone who wants to learn web development.
+```bash
+toriq@archlinux:~$ cat profile.txt
 
-### 🚀 2026 Goals
-- [ ] Build production-ready Full Stack applications
-- [x] Contribute to Open Source
-- [x] Strengthen Backend Architecture
+Nama     : Toriq Ayataal Mukhorobin
+Peran    : Full-Stack Web Developer & Linux Enthusiast
+Sekolah  : SMK (Rekayasa Perangkat Lunak / RPL)
+Fokus    : Laravel, Next.js, PostgreSQL
+Motto    : "Code should be written for humans to read,
+            and machines to execute."
+```
 
----
-
-## 🚀 Tech Stack
-
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,dart,kotlin&theme=dark" alt="Languages" /> |
-| **Frameworks & Libraries** | <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,flutter&theme=dark" alt="Frameworks" /> |
-| **Database Management** | <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Database" /> |
-| **Tools & Environment** | <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode&theme=dark" alt="Tools" /> |
+Saya membangun aplikasi web yang rapi, mudah dirawat, dan siap dikembangkan, serta suka mengatur sistem Linux.
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=toriqayataalmukhorobin-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="175" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=toriqayataalmukhorobin-del&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="175" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/report-graph-profile-account?username=toriqayataalmukhorobin-del&theme=tokyonight" width="100%" alt="3D Contribution Graph" />
-</p>
+| Kategori | Teknologi |
+| :-- | :-- |
+| **Bahasa** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,php&theme=dark" alt="Bahasa" /> |
+| **Framework & UI** | <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,bootstrap,tailwind&theme=dark" alt="Framework" /> |
+| **Linux & DevOps** | <img src="https://skillicons.dev/icons?i=linux,postgres,mysql,git,github,vscode,docker&theme=dark" alt="Tools" /> |
 
 ---
 
-## 📫 Connect With Me
+## 🧭 Perjalanan
 
-<p align="left">
-  <a href="https://instagram.com/toriqayataal" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:toriqayataalmukhorobin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+```bash
+[toriq@archlinux workspace]$ git status -s
+
+M  goals/contribute-to-open-source ......... [SELESAI]
+M  goals/backend-architecture-design ....... [SELESAI]
+?? goals/master-microservices-system ....... [BERJALAN]
+?? goals/launch-production-apps ............ [BERJALAN]
+```
+
+| Status | Pencapaian |
+| :-- | :-- |
+| ✅ Selesai | Berkontribusi ke proyek open source |
+| ✅ Selesai | Merancang arsitektur backend |
+| 🔄 Berjalan | Mendalami sistem microservices |
+| 🔄 Berjalan | Meluncurkan aplikasi ke production |
 
 ---
 
-## 💡 Mindset
+## 📫 Kontak
 
-> *"Menulis kode bukan sekadar membuat program berjalan, tetapi membuatnya mudah dipahami."* 🇮🇩  
-> *(Writing code is not just about making a program run, but making it easily understood.)*  
+Terbuka untuk kolaborasi, pekerjaan freelance, dan proyek open source.
 
-> *"Program terbaik bukan yang paling rumit, melainkan yang paling bermanfaat."* 🇮🇩  
-> *(The best program is not the most complex one, but the most useful one.)*
+| | |
+| :-- | :-- |
+| 📧 Email | [toriqayataalmukhorobin@gmail.com](mailto:toriqayataalmukhorobin@gmail.com) |
+| 📸 Instagram | [@toriqayataal](https://instagram.com/toriqayataal) |
+
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1500&color=00FF66&background=090D16&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Terima+kasih+sudah+berkunjung+%F0%9F%91%8B;Code+for+humans%2C+execute+for+machines;Happy+coding+%F0%9F%90%A7" alt="Footer" /> </div>
