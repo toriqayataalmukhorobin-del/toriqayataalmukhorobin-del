@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 <div align="center">
 
 <!-- Header Banner -->
@@ -17,11 +19,16 @@
 
 <br/><br/>
 
-[Tentang](#-tentang-saya) · [Tech Stack](#️-tech-stack) · [Perjalanan](#-perjalanan) · [Kontak](#-kontak)
+<a href="#about"><img src="https://img.shields.io/badge/%5B01%5D_ABOUT-090D16?style=for-the-badge&labelColor=161B22&color=00FF66" alt="About" /></a>
+<a href="#tech"><img src="https://img.shields.io/badge/%5B02%5D_TECH_STACK-090D16?style=for-the-badge&labelColor=161B22&color=00FF66" alt="Tech Stack" /></a>
+<a href="#journey"><img src="https://img.shields.io/badge/%5B03%5D_PERJALANAN-090D16?style=for-the-badge&labelColor=161B22&color=00FF66" alt="Perjalanan" /></a>
+<a href="#contact"><img src="https://img.shields.io/badge/%5B04%5D_KONTAK-090D16?style=for-the-badge&labelColor=161B22&color=00FF66" alt="Kontak" /></a>
 
 </div>
 
 ---
+
+<a name="about"></a>
 
 ## 👋 About Me
 
@@ -38,7 +45,11 @@ Motto    : "Code should be written for humans to read,
 
 Saya membangun aplikasi web yang rapi, mudah dirawat, dan siap dikembangkan, serta suka mengatur sistem Linux.
 
+<div align="right"><a href="#top">⬆ kembali ke atas</a></div>
+
 ---
+
+<a name="tech"></a>
 
 ## 🛠️ Tech Stack
 
@@ -48,7 +59,11 @@ Saya membangun aplikasi web yang rapi, mudah dirawat, dan siap dikembangkan, ser
 | **Framework & UI** | <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,bootstrap,tailwind&theme=dark" alt="Framework" /> |
 | **Linux & DevOps** | <img src="https://skillicons.dev/icons?i=linux,postgres,mysql,git,github,vscode&theme=dark" alt="Tools" /> |
 
+<div align="right"><a href="#top">⬆ kembali ke atas</a></div>
+
 ---
+
+<a name="journey"></a>
 
 ## 🧭 Perjalanan
 
@@ -68,7 +83,11 @@ M  goals/backend-architecture-design ....... [SELESAI]
 | 🔄 Berjalan | Mendalami sistem microservices |
 | 🔄 Berjalan | Meluncurkan aplikasi ke production |
 
+<div align="right"><a href="#top">⬆ kembali ke atas</a></div>
+
 ---
+
+<a name="contact"></a>
 
 ## 📫 Kontak
 
