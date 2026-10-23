@@ -5,7 +5,7 @@
 
 <!-- Animasi terminal: teks diketik otomatis, berganti baris, dan mengulang -->
 <a href="https://github.com/toriqayataal">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1200&color=00FF66&background=090D16&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%3E+whoami%3A+Toriq+Ayataal+Mukhorobin;%3E+role%3A+Full-Stack+Web+Developer;%3E+stack%3A+Laravel+%7C+Next.js+%7C+mySQL;%3E+os%3A+chacy+os+btw;%3E+status%3A+open+for+collaboration+%E2%9C%93" alt="Animasi terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1200&color=00FF66&background=090D16&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%3E+whoami%3A+Toriq+Ayataal+Mukhorobin;%3E+role%3A+Full-Stack+Web+Developer;%3E+stack%3A+Laravel+%7C+Next.js+%7C+MySQL;%3E+os%3A+CachyOS+btw;%3E+status%3A+open+for+collaboration+%E2%9C%93" alt="Animasi terminal" />
 </a>
 
 <br/><br/>
@@ -23,7 +23,7 @@
 
 ---
 
-## 👋 Tentang Saya
+## 👋 About Me
 
 ```bash
 toriq@archlinux:~$ cat profile.txt
@@ -31,7 +31,7 @@ toriq@archlinux:~$ cat profile.txt
 Nama     : Toriq Ayataal Mukhorobin
 Peran    : Full-Stack Web Developer & Linux Enthusiast
 Sekolah  : SMK (Rekayasa Perangkat Lunak / RPL)
-Fokus    : Laravel, Next.js, PostgreSQL
+Fokus    : Laravel, Next.js, MySQL
 Motto    : "Code should be written for humans to read,
             and machines to execute."
 ```
@@ -44,9 +44,9 @@ Saya membangun aplikasi web yang rapi, mudah dirawat, dan siap dikembangkan, ser
 
 | Kategori | Teknologi |
 | :-- | :-- |
-| **Bahasa** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,php&theme=dark" alt="Bahasa" /> |
+| **Bahasa** | <img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" alt="Bahasa" /> |
 | **Framework & UI** | <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,bootstrap,tailwind&theme=dark" alt="Framework" /> |
-| **Linux & DevOps** | <img src="https://skillicons.dev/icons?i=linux,postgres,mysql,git,github,vscode,docker&theme=dark" alt="Tools" /> |
+| **Linux & DevOps** | <img src="https://skillicons.dev/icons?i=linux,postgres,mysql,git,github,vscode&theme=dark" alt="Tools" /> |
 
 ---
 
@@ -79,4 +79,6 @@ Terbuka untuk kolaborasi, pekerjaan freelance, dan proyek open source.
 | 📧 Email | [toriqayataalmukhorobin@gmail.com](mailto:toriqayataalmukhorobin@gmail.com) |
 | 📸 Instagram | [@toriqayataal](https://instagram.com/toriqayataal) |
 
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1500&color=00FF66&background=090D16&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Terima+kasih+sudah+berkunjung+%F0%9F%91%8B;Code+for+humans%2C+execute+for+machines;Happy+coding+%F0%9F%90%A7" alt="Footer" /> </div>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1500&color=00FF66&background=090D16&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Terima+kasih+sudah+berkunjung+%F0%9F%91%8B;Code+for+humans%2C+execute+for+machines;Happy+coding+%F0%9F%90%A7" alt="Footer" />
+</div>
