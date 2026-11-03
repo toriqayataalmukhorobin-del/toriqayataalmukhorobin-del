@@ -37,7 +37,7 @@ toriq@archlinux:~$ cat profile.txt
 
 Nama     : Toriq Ayataal Mukhorobin
 Peran    : Full-Stack Web Developer & Linux Enthusiast
-Sekolah  : SMK (Rekayasa Perangkat Lunak / RPL)
+Sekolah  : SMK (Rekayasa Perangkat Lunak / RPL 2)
 Fokus    : Laravel, Next.js, MySQL
 Motto    : "Code should be written for humans to read,
             and machines to execute."
